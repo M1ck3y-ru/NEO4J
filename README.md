@@ -2,8 +2,9 @@
 
 Ce projet implémente un système de gestion des relations clients-commandes-produits utilisant Neo4j comme base de données graphe, avec une API REST développée en Python Flask.
 
-![Screenshot de l'application](screenshot/Screenshot%202025-06-03%20at%2011.20.26.png)
+![Screenshot_2025-06-03_at_11 13 52](https://github.com/user-attachments/assets/ea30dff3-381b-47c2-8c1f-8eeab55b8a9c)
 ## 🎯 Objectifs
+
 
 - Modéliser les interactions entre clients, commandes et produits dans un graphe
 - Exploiter les données via des requêtes Cypher optimisées
